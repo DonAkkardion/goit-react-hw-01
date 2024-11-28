@@ -1,0 +1,15 @@
+.online-text {
+  color: crimson;
+  font-size: 18px;
+}
+.online-text.is-active {
+  color: rgb(44, 139, 37);
+}
+.friendImage {
+  width: 80px;
+  margin-bottom: 16px;
+}
+.friendName {
+  margin-bottom: 6px;
+  font-size: 24px;
+}
